@@ -1,0 +1,45 @@
+body{
+  padding:2%;
+  background-color: #F0F8FF;
+}
+.projects{
+  display:flex;
+  flex-wrap: wrap;
+}
+.card-block{
+  margin:10px;
+  border: solid black 3px;
+}
+.title{
+  text-align: center;
+  margin:5px 0 0 10%;
+}
+.aboutme{
+  border: solid black;
+  padding:2%;
+}
+.personalInfo{
+  display:flex;
+  padding:2%;
+  justify-content: center;
+ 
+}
+.myProfilePic{
+  height:200px;
+  width:160px;
+  border: solid black;
+}
+.Icon{
+  height:30px;
+  width:30px;
+  margin:2%;
+}
+.section1{
+  flex-wrap:wrap;
+}
+.section2{
+  flex-wrap:wrap;
+}
+.contactInfo{
+  margin:5% 0 0 10%;
+}
